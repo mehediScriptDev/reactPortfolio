@@ -1,8 +1,6 @@
 node_modules/
 build/
-.env
 dist/ build/
-.env
 dist/ build/
-.env
 dist/
+config.bat
